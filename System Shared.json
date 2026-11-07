@@ -421,7 +421,7 @@
                 "characteristics": [
                   {"name": "ES", "$text": "4+", "typeId": "b3be-7f64-867b-94f7"},
                   {"name": "KS", "$text": "4+", "typeId": "4e0b-e781-cee2-504d"},
-                  {"name": "Hull", "$text": "-", "typeId": "a0a5-e13e-1516-6b57"},
+                  {"name": "Hull", "$text": "5", "typeId": "a0a5-e13e-1516-6b57"},
                   {"name": "Special", "$text": "-", "typeId": "0042-a956-225d-9293"}
                 ]
               }
